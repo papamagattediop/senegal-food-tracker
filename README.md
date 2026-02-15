@@ -109,7 +109,5 @@ senegal-food-tracker/
 Ce projet est développé dans un cadre académique.
 
 ---
-  
----
 
 **Dernière mise à jour** : Février 2026
